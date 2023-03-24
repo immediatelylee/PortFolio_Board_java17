@@ -1,6 +1,8 @@
 package com.example.PortFolio_Board_Java17.dbconnecttest;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 
 public class dbconnecttest {
     public static void main(String[] args) {

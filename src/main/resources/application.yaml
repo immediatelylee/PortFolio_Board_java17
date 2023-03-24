@@ -25,5 +25,3 @@ spring:
     base-path: /api
     detection-strategy: annotated
 
-
-
