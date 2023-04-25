@@ -1,4 +1,4 @@
-package com.example.PortFolio_Board_Java17.domain.type;
+package com.example.PortFolio_Board_Java17.domain.constant;
 
 import lombok.Getter;
 
