@@ -4,6 +4,7 @@ import com.example.PortFolio_Board_Java17.domain.Article;
 import com.example.PortFolio_Board_Java17.domain.UserAccount;
 
 import java.time.LocalDateTime;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 public record ArticleDto(
@@ -32,7 +33,7 @@ public record ArticleDto(
                 UserAccountDto.from(entity.getUserAccount()),
                 entity.getTitle(),
                 entity.getContent(),
-                entity.getHashtag().stream()
+                entity.getHashtags().stream()
                         .map(HashtagDto::from)
                         .collect(Collectors.toUnmodifiableSet())
                 ,

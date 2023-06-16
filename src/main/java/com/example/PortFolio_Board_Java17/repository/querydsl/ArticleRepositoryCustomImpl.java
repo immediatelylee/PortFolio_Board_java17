@@ -3,6 +3,7 @@ package com.example.PortFolio_Board_Java17.repository.querydsl;
 
 import com.example.PortFolio_Board_Java17.domain.Article;
 import com.example.PortFolio_Board_Java17.domain.QArticle;
+import com.example.PortFolio_Board_Java17.domain.QHashtag;
 import com.querydsl.jpa.JPQLQuery;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
