@@ -1,6 +1,7 @@
 package com.example.PortFolio_Board_Java17.repository;
 
 import com.example.PortFolio_Board_Java17.domain.Hashtag;
+import com.example.PortFolio_Board_Java17.repository.querydsl.HashtagRepositoryCustom;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.querydsl.QuerydslPredicateExecutor;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

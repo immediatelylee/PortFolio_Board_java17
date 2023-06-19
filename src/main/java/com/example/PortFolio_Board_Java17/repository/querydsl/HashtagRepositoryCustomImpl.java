@@ -1,13 +1,16 @@
 package com.example.PortFolio_Board_Java17.repository.querydsl;
 
 import com.example.PortFolio_Board_Java17.domain.Hashtag;
+import com.example.PortFolio_Board_Java17.domain.QHashtag;
 import org.springframework.data.jpa.repository.support.QuerydslRepositorySupport;
 
 import java.util.List;
 
 public class HashtagRepositoryCustomImpl extends QuerydslRepositorySupport implements HashtagRepositoryCustom {
-    public HashtagRepositoryCustomImpl(){
+
+    public HashtagRepositoryCustomImpl() {
         super(Hashtag.class);
+
     }
 
     @Override
