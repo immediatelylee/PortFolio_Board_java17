@@ -1,8 +1,6 @@
 package com.example.PortFolio_Board_Java17.config;
 
-import com.example.PortFolio_Board_Java17.domain.UserAccount;
 import com.example.PortFolio_Board_Java17.dto.UserAccountDto;
-import com.example.PortFolio_Board_Java17.repository.UserAccountRepository;
 import com.example.PortFolio_Board_Java17.service.UserAccountService;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.context.annotation.Import;
