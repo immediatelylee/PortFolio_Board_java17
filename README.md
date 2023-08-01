@@ -42,6 +42,9 @@ Spring Boot
 
 * https://project-board-lsg.herokuapp.com/
 
+아이디:lsg
+패스워드:asdf1234
+
 ## 질문, 건의
 
 프로젝트에 관해 궁금하신 점이나 건의 사항이 있으시다면 아래 항목을 이용해 주세요.
