@@ -2,7 +2,6 @@ package com.example.PortFolio_Board_Java17.dto;
 
 import com.example.PortFolio_Board_Java17.domain.UserAccount;
 
-
 import java.time.LocalDateTime;
 
 public record UserAccountDto(

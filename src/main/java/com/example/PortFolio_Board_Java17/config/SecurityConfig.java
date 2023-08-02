@@ -1,9 +1,7 @@
 package com.example.PortFolio_Board_Java17.config;
 
-import com.example.PortFolio_Board_Java17.dto.UserAccountDto;
 import com.example.PortFolio_Board_Java17.dto.security.BoardPrincipal;
 import com.example.PortFolio_Board_Java17.dto.security.KakaoOAuth2Response;
-import com.example.PortFolio_Board_Java17.repository.UserAccountRepository;
 import com.example.PortFolio_Board_Java17.service.UserAccountService;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
 import org.springframework.context.annotation.Bean;
