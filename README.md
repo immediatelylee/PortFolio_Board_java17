@@ -42,8 +42,7 @@ Spring Boot
 
 * https://project-board-lsg.herokuapp.com/
   
-* 아이디:lsg  패스워드:test1234
-* 아이디:lsg2  패스워드:test1234
+* 아이디:lsg  패스워드:test1234  * 아이디:lsg2  패스워드:test1234
 
 * 체크리스트 주소 : https://docs.google.com/spreadsheets/d/1uv1z8jJ8801joEwhq-w1a5I8P7S2tm0OmpLdfdea7F4/edit#gid=0
 
