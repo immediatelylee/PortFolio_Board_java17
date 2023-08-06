@@ -43,8 +43,12 @@ Spring Boot
 * https://project-board-lsg.herokuapp.com/
   
 * 아이디:lsg  패스워드:test1234
+* 아이디:lsg2  패스워드:test1234
+
+* 체크리스트 주소 : https://docs.google.com/spreadsheets/d/1uv1z8jJ8801joEwhq-w1a5I8P7S2tm0OmpLdfdea7F4/edit#gid=0
 
 ## 릴리즈, 프로젝트 진행도 
 
+* endpoint&api-spec : https://docs.google.com/spreadsheets/d/11Jg0qmagAIiKoPYMH5W6HXZDbS_-LxPY12V4zHQ9cKw/edit#gid=0
 * Releases: https://github.com/immediatelylee/PortFolio_Board_java17/releases
 * project: https://github.com/users/immediatelylee/projects/3
