@@ -40,7 +40,7 @@ Spring Boot
 ## 데모 페이지
 비용 절감을 위해 클라우드 서버가 자동 슬립 모드로 설정되어 있습니다. 링크를 클릭하면 서비스가 깨어납니다. 따라서 첫번째 클릭 반응이 15초 이상으로 다소 늦을 수 있습니다. 이후에는 비교적 원활하게 서비스를 구경하실 수 있습니다.
 
-* 데모페이지 주소: https://project-board-lsg.herokuapp.com/
+* 데모페이지 주소: https://project-board-lsg.herokuapp.com/  -- 삭제
   
 * 아이디:lsg  패스워드:test1234  * 아이디:lsg2  패스워드:test1234
 
